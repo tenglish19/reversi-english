@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Font Sample<title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Space+Mono&display=swap" rel="stylesheet">
+      <style>
+        .text1{
+        font-family: 'Odibee Sans', cursive;
+        }
+    </style>
+  </head>
+<body>
+  <p class="text1">Yo my name is Trevor. This is my SICK website. Super cool stuff.</p>
+</body>
+</html>
